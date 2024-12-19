@@ -1,0 +1,21 @@
+body{
+    font-family: Bubblegum Sans;
+    text-align: center;
+    background-image: url(images/background.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#molangking{
+    width: 300px;
+}
+
+h1{
+    font-size: 4.5em;
+}
+
+#myp{
+    margin: 60px;
+}
